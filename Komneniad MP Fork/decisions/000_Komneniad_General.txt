@@ -3,6 +3,8 @@ political_decisions = {
 		picture = komneniad
 		alert = no
 		potential = {
+            always = no # Disable the menu
+            
 			ai = no
 			NOT = { has_country_flag = komneniad_menu }
 		}
@@ -60,7 +62,6 @@ political_decisions = {
             ai = no
 			NOT = { has_country_flag = grants_disabled }
             NOT = { has_country_flag = grants_shown }
-			has_global_flag = you_are_playing_mp
         }
         allow = {
             ai = no
