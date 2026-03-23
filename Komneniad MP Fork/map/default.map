@@ -25,7 +25,7 @@ sea_starts = {
 }
 
 #definitions = "definition.csv" # for use with Scenario Editor
-definitions = "../mod/The Komneniad/map/definition.csv"
+definitions = "../mod/Komneniad MP Fork/map/definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
 terrain = "terrain.bmp"
